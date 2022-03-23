@@ -1,0 +1,22 @@
+Line 494: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 521: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid2 was not a loaded control class.
+Line 500: The property name _ExtentX in MSFlexGrid1 is invalid.
+Line 501: The property name _ExtentY in MSFlexGrid1 is invalid.
+Line 502: The property name _Version in MSFlexGrid1 is invalid.
+Line 503: The property name Rows in MSFlexGrid1 is invalid.
+Line 504: The property name Cols in MSFlexGrid1 is invalid.
+Line 505: The property name FixedRows in MSFlexGrid1 is invalid.
+Line 506: The property name FixedCols in MSFlexGrid1 is invalid.
+Line 507: The property name BackColorSel in MSFlexGrid1 is invalid.
+Line 508: The property name ForeColorSel in MSFlexGrid1 is invalid.
+Line 509: The property name FocusRect in MSFlexGrid1 is invalid.
+Line 527: The property name _ExtentX in MSFlexGrid2 is invalid.
+Line 528: The property name _ExtentY in MSFlexGrid2 is invalid.
+Line 529: The property name _Version in MSFlexGrid2 is invalid.
+Line 530: The property name Rows in MSFlexGrid2 is invalid.
+Line 531: The property name Cols in MSFlexGrid2 is invalid.
+Line 532: The property name FixedRows in MSFlexGrid2 is invalid.
+Line 533: The property name FixedCols in MSFlexGrid2 is invalid.
+Line 534: The property name BackColorSel in MSFlexGrid2 is invalid.
+Line 535: The property name ForeColorSel in MSFlexGrid2 is invalid.
+Line 536: The property name FocusRect in MSFlexGrid2 is invalid.
