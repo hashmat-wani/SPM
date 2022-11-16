@@ -2,9 +2,8 @@
 
 Semester Process Management
 
-This is a standalone system designed to automate/reduce the effort and time of maintaining/retrieving data stored by using files and registers in CSA Department of our college. The record of every student, courses, teachers were handled manually and there was no use of any computer.
+This is a standalone system designed to automate/reduce the effort and time of maintaining/retrieving data stored by using files and registers in the CSA Department of our college. The record of every student, course, and teacher was handled manually and there was no use of any computer.
 This project contains mainly the following sections:
-
 - STUDENT INFORMATION
 - STAFF INFORMATION
 - STUDENT RECORDS (ADD/MODIFY/DELETE)
